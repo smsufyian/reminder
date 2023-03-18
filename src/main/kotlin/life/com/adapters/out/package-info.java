@@ -1,0 +1,1 @@
+package life.com.adapters.out;
